@@ -1,0 +1,91 @@
+Consultas almacenadas: 12109.
+La frecuencia de "awhneukirch" es 1.
+-Tiempo: XXX
+La frecuencia de "gato blanco cesta" es 15.
+-Tiempo: XXX
+La frecuencia de "green grass tennis ball" es 8.d
+-Tiempo: XXX
+La frecuencia de "maceta flores bicicleta" es 20.
+-Tiempo: XXX
+La frecuencia de "flor amarillo caracol" es 18.
+-Tiempo: XXX
+La frecuencia de "ordenador" es 0.
+-Tiempo: XXX
+La frecuencia de "payaso musico" es 10.
+-Tiempo: XXX
+La frecuencia de "cat helmet" es 8.
+-Tiempo: XXX
+La frecuencia de "melon" es 54.
+-Tiempo: XXX
+La frecuencia de "globo rojo" es 11.
+-Tiempo: XXX
+La lista de sugerencias para "bandera" es:
+	"bandera perro agua barco" con frecuencia 5.
+	"banderas piscina mar" con frecuencia 3.
+	"bandera charco" con frecuencia 1.
+	"bandera perro" con frecuencia 1.
+	"bandera perro agua barca" con frecuencia 1.
+	"banderas" con frecuencia 1.
+	"banderas nadadores" con frecuencia 1.
+-Tiempo: XXX
+La lista de sugerencias para "cappuccino" es:
+	"cappuccino" con frecuencia 15.
+	"cappuccino uccelli" con frecuencia 8.
+	"cappuccino palma" con frecuencia 4.
+	"cappuccino uccelli cioccolato" con frecuencia 4.
+	"cappuccino cup" con frecuencia 1.
+	"cappuccino palm" con frecuencia 1.
+	"cappuccino palmier" con frecuencia 1.
+	"cappuccino piastra" con frecuencia 1.
+	"cappuccino ucelli cioccolato" con frecuencia 1.
+-Tiempo: XXX
+La lista de sugerencias para "cement" es:
+	"cementerio" con frecuencia 3.
+	"cementerio luz tumba cruz" con frecuencia 2.
+	"cementary" con frecuencia 1.
+	"cementerio judio" con frecuencia 1.
+	"cementerio losas" con frecuencia 1.
+	"cementerio luz" con frecuencia 1.
+	"cementerio luz tumba" con frecuencia 1.
+	"cementerio luz tumba lapida" con frecuencia 1.
+-Tiempo: XXX
+La lista de sugerencias para "cenicero" es:
+	"cenicero" con frecuencia 3.
+	"cenicero basura" con frecuencia 1.
+	"cenicero marlboro" con frecuencia 1.
+	-Tiempo: XXX
+La lista de sugerencias para "cr" es:
+	"crystalball red" con frecuencia 14.
+	"cranes" con frecuencia 11.
+	"crane peinture" con frecuencia 5.
+	"cross forest light" con frecuencia 3.
+	"crane" con frecuencia 2.
+	"crane exposition" con frecuencia 2.
+	"cranio mostra" con frecuencia 2.
+	"creare cervello" con frecuencia 2.
+	"croix cimetiere tombe arbre" con frecuencia 2.
+	"croix cimetiere tombe arbres" con frecuencia 2.
+	"croix tombe arbres" con frecuencia 2.
+	"croix tombes glendalough" con frecuencia 2.
+	"crane exposition peinture" con frecuencia 1.
+	"cranes art" con frecuencia 1.
+	"cranes exposition" con frecuencia 1.
+	"cranes exposition art" con frecuencia 1.
+	"cranes exposition dart" con frecuencia 1.
+	"cranes peinture" con frecuencia 1.
+	"cranes peintures" con frecuencia 1.
+	"cristal cristal" con frecuencia 1.
+	"croix cimeterie" con frecuencia 1.
+	"croix cimetiere tombe" con frecuencia 1.
+	"croix cimetiere tombe arbre ireland" con frecuencia 1.
+	"croix foret" con frecuencia 1.
+	"croix foret cemetery" con frecuencia 1.
+	"croix foret cimetery" con frecuencia 1.
+	"croix foret cimetiere" con frecuencia 1.
+	"croix foret cimitir" con frecuencia 1.
+	"croix foret leger" con frecuencia 1.
+	"croix tombe monasterie" con frecuencia 1.
+	"cross wood light" con frecuencia 1.
+	"crystler symbol" con frecuencia 1.
+	"crystler symbole" con frecuencia 1.
+-Tiempo: XXX
